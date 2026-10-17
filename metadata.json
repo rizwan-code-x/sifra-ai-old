@@ -1,0 +1,12 @@
+{
+  "name": "Sifra - Assistant 2026, 13 May ",
+  "description": "A professional AI assistant with a sleek interface, typing indicator, and a dynamic result display.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
